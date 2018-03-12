@@ -1,0 +1,11 @@
+spring:
+  application.name: config-client-demo
+  cloud.config.uri: http://localhost:8888
+
+security.enabled: false
+
+#
+#endpoints:
+#
+#    jolokia:
+#      enabled: true
